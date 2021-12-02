@@ -1,1 +1,2 @@
 Welcome to Git and Visual Code
+Welcome to DevOps training
