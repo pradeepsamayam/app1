@@ -1,3 +1,4 @@
 Welcome to Git and Visual Code
 Welcome to DevOps training
 merging scenario
+Tag demo, this can be used for release purpose.
